@@ -58,13 +58,21 @@
 			children = (
 				A6EF3E332774545F000C1E27 /* AppDelegate.swift */,
 				A6EF3E352774545F000C1E27 /* SceneDelegate.swift */,
-				A6EF3E372774545F000C1E27 /* ViewController.swift */,
+				A6EF3E47277455A9000C1E27 /* ViewController */,
 				A6EF3E392774545F000C1E27 /* Main.storyboard */,
 				A6EF3E3C27745461000C1E27 /* Assets.xcassets */,
 				A6EF3E3E27745461000C1E27 /* LaunchScreen.storyboard */,
 				A6EF3E4127745461000C1E27 /* Info.plist */,
 			);
 			path = ParseImage_ImgurAPI;
+			sourceTree = "<group>";
+		};
+		A6EF3E47277455A9000C1E27 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A6EF3E372774545F000C1E27 /* ViewController.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
